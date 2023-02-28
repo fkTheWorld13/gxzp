@@ -178,7 +178,6 @@ public class AdminController {
         return new DeletedVO(10);
     }
 
-    @PostMapping("/test")
     @PermissionMeta(value = "测试接口")
     public void test() {
     }
