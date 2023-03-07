@@ -17,6 +17,4 @@
 2.  recruit-web为前端，安装node.js V12以上版本，使用yarn install安装包依赖，然后yarn run serve运行
 
 #### 使用说明
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
